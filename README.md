@@ -1,5 +1,5 @@
-# NETWORKWALKS-B083-WK1-PM1-CYBERSECURITY-LAB-SETUP
-A controlled cybersecurity testing laboratory built using VirtualBox and Kali Linux. The environment uses an isolated 10.0.0.0/24 NAT Network, with Kali Linux configured as the primary security-testing machine at 10.0.0.2/24 with Internet access.The environment provides a safe foundation for practicing network reconnaissance, vulnerability assessment, penetration testing, and other authorized cybersecurity activities.
+# NETWORKWALKS-B083F-WK1-PM1-CYBERSECURITY-LAB-SETUP
+Cybersecurity lab setup, 10.0.0.0/24
 
 # 🔐 Cybersecurity & Penetration Testing Lab
 
@@ -422,27 +422,6 @@ All security testing must be performed against systems that you own or have expl
 
 Do not use these techniques against unauthorized systems, networks, websites, or devices.
 
----
-
-# 🔮 Future Improvements
-
-The laboratory can be expanded by adding additional virtual machines to the same network.
-
-Possible future targets include:
-
-```text
-Kali Linux
-10.0.0.2
-
-        │
-        │
-   10.0.0.0/24
-        │
-   ┌────┴─────────────┐
-   │                  │
-Target VM          Windows VM
-10.0.0.10         10.0.0.20
-```
 
 ---
 
