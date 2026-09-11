@@ -332,14 +332,13 @@ Screenshots documenting the configuration are included in this repository.
 <img width="1902" height="836" alt="image" src="https://github.com/user-attachments/assets/3cc3f2a3-d04f-420b-a2f2-6f7027d99260" />
 <img width="1910" height="1007" alt="image" src="https://github.com/user-attachments/assets/645db5d3-2db8-47c1-99ee-fd06d2dc0444" />
 
+
 ### Screenshot 3 — Kali Linux VM
 <img width="1911" height="1017" alt="image" src="https://github.com/user-attachments/assets/2ca09914-77fb-4091-a6b4-35847f0ac244" />
 
+
 ### Screenshot 4 — Kali Network Configuration
 <img width="1886" height="1017" alt="image" src="https://github.com/user-attachments/assets/14cfa68f-6989-461b-be19-394e4562194f" />
-
-
-![Kali Network](4-screenshot-kali-network-settings.png)
 
 ---
 
