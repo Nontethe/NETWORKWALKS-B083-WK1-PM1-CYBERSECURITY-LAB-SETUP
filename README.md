@@ -125,7 +125,6 @@ A dedicated VirtualBox NAT Network was created for the laboratory.
 ```text
 Network Name:     NatNetwork
 IPv4 Network:     10.0.0.0/24
-DHCP:             Enabled
 IPv6:             Disabled
 ```
 
@@ -354,42 +353,6 @@ Kali-Clean-Lab-Baseline
 The snapshot provides a known-good recovery point.
 
 Before performing future cybersecurity experiments, the VM can be restored to this state if a configuration becomes unstable or corrupted.
-
----
-
-# 🐞 Troubleshooting
-
-## Issue 1 — Internet stopped working after static IP configuration
-
-Changing Kali from DHCP to a static IPv4 configuration can sometimes result in connectivity issues depending on the NetworkManager configuration.
-
-One command used while troubleshooting was:
-
-```bash
-sudo nmcli connection modify "Wired connection 1" ipv4.dad-timeout 0
-```
-
-The network connection was then restarted and connectivity was tested again.
-
-> **Note:** Connection names can differ between Kali installations. Run `nmcli connection show` first and use the actual connection name shown on your system.
-
----
-
-## Issue 2 — VirtualBox hardware virtualization error
-
-The VM initially encountered a virtualization-related startup problem.
-
-The troubleshooting process involved:
-
-1. Restarting the host computer.
-2. Entering BIOS/UEFI configuration.
-3. Locating the hardware virtualization setting.
-4. Enabling Intel VT-x / AMD-V.
-5. Saving the BIOS/UEFI configuration.
-6. Restarting the computer.
-7. Starting the Kali VM again.
-
-After hardware virtualization was enabled, the VM was able to start correctly.
 
 ---
 
