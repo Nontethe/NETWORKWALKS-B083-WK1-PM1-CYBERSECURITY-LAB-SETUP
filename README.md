@@ -324,7 +324,8 @@ Screenshots documenting the configuration are included in this repository.
 
 ### Screenshot 1 — Project / Lab Environment
 
-![Lab Setup](1-screenshot-title-image.png)
+<img width="1908" height="1030" alt="image" src="https://github.com/user-attachments/assets/ab83df7f-5d0a-46be-bf3a-17fdfc0ee726" />
+
 
 ### Screenshot 2 — VirtualBox Network Configuration
 
