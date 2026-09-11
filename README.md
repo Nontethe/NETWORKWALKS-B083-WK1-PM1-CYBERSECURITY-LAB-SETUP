@@ -455,8 +455,13 @@ Target VM          Windows VM
 # 👤 Author
 
 **[Nontethelelo Mahlangu]**
-@Waqas  Harim
-@Networkwalks
+
+
+**[Waqas Karim (CCIE)](https://www.linkedin.com/in/waqaskarim)**
+**[NETWORKWALKS](https://za.linkedin.com/company/networkwalks)**
+
+Cybersecurity Lab Environment Project — NetworkWalks
+
 
 ### Project Information
 
