@@ -436,6 +436,7 @@ Do not use these techniques against unauthorized systems, networks, websites, or
 # 👤 Author
 
 **[Nontethelelo Mahlangu]**
+**LinkedIn:** [https://www.linkedin.com/in/nontethelelo-mahlangu-6a5103275/](https://www.linkedin.com/in/nontethelelo-mahlangu-6a5103275/)
 
 
 **[Waqas Karim (CCIE)](https://www.linkedin.com/in/waqaskarim)**
