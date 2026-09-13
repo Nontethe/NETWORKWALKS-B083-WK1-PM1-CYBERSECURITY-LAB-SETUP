@@ -444,13 +444,6 @@ Do not use these techniques against unauthorized systems, networks, websites, or
 **[Nontethelelo Mahlangu]**
 **LinkedIn:** [https://www.linkedin.com/in/nontethelelo-mahlangu-6a5103275/](https://www.linkedin.com/in/nontethelelo-mahlangu-6a5103275/)
 
-
-**[Waqas Karim (CCIE)](https://www.linkedin.com/in/waqaskarim)**
-**[NETWORKWALKS](https://za.linkedin.com/company/networkwalks)**
-
-Cybersecurity Lab Environment Project — NetworkWalks
-
-
 ### Project Information
 
 ```text
