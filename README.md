@@ -1,4 +1,4 @@
-# NETWORKWALKS-B083F-WK1-PM1-CYBERSECURITY-LAB-SETUP
+# NETWORKWALKS-B083-WK1-PM1-CYBERSECURITY-LAB-SETUP
 Cybersecurity lab setup, 10.0.0.0/24
 
 # 🔐 Cybersecurity & Penetration Testing Lab
